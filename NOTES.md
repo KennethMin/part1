@@ -6,3 +6,4 @@
 - Exercise 1.6: unicafe feedback buttons with useState.
 - Exercise 1.7: unicafe shows total, average and positive share.
 - Exercise 1.8: statistics moved into their own component.
+- Exercise 1.9: statistics hidden until the first feedback is given.
